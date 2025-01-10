@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blitz Recipes</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+    <div class="box-1">
+        <h1>Blitz Recipes</h1>
+    </div>
+
+    <div class="box-2">
+        <div class="sub-box-1">
+            <div id="child-box-1">
+                <div id="showMessage"></div>
+            </div>
+        </div>
+
+        <div class="sub-box-2">
+            <div id="child-box-2">
+                <div id="child-box-2-1">
+                    <div id="container"></div> 
+                </div>
+                <div id="child-box-2-2">
+                    <input type="text" name="search" id="inputText" placeholder="Ask about recipes" onkeyup="showSuggest(this.value)">
+                    <input type="submit" value="Send" id="btn" onclick="sendMessage()">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="function.js"></script>
+</body>
+</html>
