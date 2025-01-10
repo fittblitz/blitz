@@ -119,14 +119,12 @@ body {
     background-color: #e0f7fa;
     align-self: flex-start;
     margin-left: 10px;
-    border:1px solid black;
 }
 
 .botMessage {
     background-color: #f1f8e9;
     align-self: flex-end;
     margin-right: 10px;
-    border:1px solid black;
 }
 
 .recipe-details {
