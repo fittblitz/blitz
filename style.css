@@ -119,19 +119,22 @@ body {
     background-color: #e0f7fa;
     align-self: flex-start;
     margin-left: 10px;
+    border:1px solid black;
 }
 
 .botMessage {
     background-color: #f1f8e9;
     align-self: flex-end;
     margin-right: 10px;
+    border:1px solid black;
 }
 
 .recipe-details {
-    padding: 15px;
+    padding: 10px 30px;
     background-color: #e8f5e9;
     border-radius: 5px;
     margin-top: 10px;
+    border:1px solid black;
 }
 
 .recipe-details ul, .recipe-details ol {
