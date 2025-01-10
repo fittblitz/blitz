@@ -48,127 +48,127 @@ const keyword = [
     "moong dal and mushroom stir fry",
     "moong dal stuffed paratha",
     "moong dal sprouts chaat",
-    "Amla Ginger Shot",
-    "Tulsi Lemon Infusion",
-    "Turmeric Ginger Elixir",
-    "Cucumber Mint Cooler",
-    "Tomato Coriander Detox Drink",
-    "Green Tea with Lemon",
-    "Spinach Cucumber Refresher",
-    "Beetroot Carrot Juice",
-    "Hibiscus Iced Tea",
-    "Pomegranate Mint Fizz",
-    "Lemon Coconut Water Infusion",
-    "Coriander Detox Water",
-    "Ginger Lemon Jeera Drink",
-    "Carrot Tomato Cooler",
-    "Cabbage Celery Juice",
-    "Lemon Turmeric Buttermilk",
-    "Moringa Herbal Drink",
-    "Neem Coriander Juice",
-    "Bael Sherbet",
-    "Mint Cucumber Sparkler",
-    "Spinach-Cucumber Juice",
-    "Beetroot Carrot Juice",
-    "Moringa Lemon Water",
-    "Coriander Spinach Cooler",
-    "Amla Ginger Shot",
-    "Mint Cucumber Drink",
-    "Tomato Celery Juice",
-    "Curry Leaf Infusion",
-    "Kale Cucumber Juice",
-    "Lemon Coconut Water",
-    "Broccoli Spinach Juice",
-    "Hibiscus Coriander Drink",
-    "Drumstick Leaf Cooler",
-    "Neem Lemon Tonic",
-    "Cucumber Coriander Juice",
-    "Ragi Buttermilk",
-    "Lauki Mint Juice",
-    "Fenugreek Seed Water",
-    "Black Chana Soup",
-    "Palak Tomato Juice",
-    "Jowar Vegetable Upma",
-    "Jowar Pancakes (Chilla) with Spinach",
-    "Jowar Idli",
-    "Jowar Dosa",
-    "Jowar and Oats Porridge",
-    "Jowar Vegetable Paratha",
-    "Jowar Methi Thepla",
-    "Jowar Poha with Vegetables",
-    "Jowar and Lentil Adai",
-    "Jowar Uttapam",
-    "Jowar Khichdi with Moong Dal",
-    "Jowar Roti with Vegetable Curry",
-    "Jowar Bhakri with Green Chutney",
-    "Jowar and Vegetable Pulao",
-    "Jowar Veggie Wraps",
-    "Jowar Biryani with Paneer",
-    "Jowar Stuffed Paratha with Tofu Filling",
-    "Jowar Tacos with Rajma Filling",
-    "Jowar Flour Dumplings (Muthia)",
-    "Jowar and Sprouts Salad",
-    "Jowar Vegetable Handvo",
-    "Jowar Crackers with Hummus",
-    "Jowar Masala Puffs",
-    "Jowar Onion Pakoras (Air-Fried)",
-    "Jowar Masala Pancakes",
-    "Jowar Veggie Cutlets",
-    "Jowar Masala Balls (Steamed)",
-    "Jowar Flour Sticks with Herbs",
-    "Jowar Chakli (Baked)",
-    "Jowar Popcorn Snack",
-    "Jowar and Lentil Soup",
-    "Jowar and Spinach Soup",
-    "Jowar and Mixed Veggie Salad",
-    "Jowar and Chickpea Salad",
-    "Jowar and Grilled Paneer Salad",
-    "Jowar Millet Soup with Herbs",
-    "Jowar and Tomato Soup",
-    "Jowar and Sprouts Soup",
-    "Jowar Veggie Burgers",
-    "Jowar Noodles with Stir-Fry Veggies",
-    "Jowar Veggie Pizza Base",
-    "Jowar Sushi Rolls",
-    "Jowar Pasta with Tomato Basil Sauce",
-    "Jowar Stuffed Bell Peppers",
-    "Jowar Risotto with Mushrooms",
-    "Jowar Flour Nachos with Salsa",
-    "Jowar Wrap with Grilled Chicken",
-    "Jowar Idli",
-    "Mango Pineapple Smoothie",
-    "Papaya Coconut Smoothie",
-    "Banana Coconut Water Smoothie",
-    "Pineapple Smoothie",
-    "Mango Smoothie",
-    "Kiwi Mango Smoothie",
-    "Guava Lime Smoothie",
-    "Pineapple Kale Smoothie",
-    "Coconut Mango Smoothie",
-    "Dragonfruit Pineapple Smoothie",
-    "Orange Carrot Smoothie",
-    "Lemon Mint Watermelon Smoothie",
-    "Grapefruit Strawberry Smoothie",
-    "Lime Blueberry Smoothie",
-    "Spinach Pineapple Smoothie",
-    "Kale Apple Banana Smoothie",
-    "Avocado Mango Smoothie",
-    "Cucumber Kiwi Smoothie",
-    "Green Grapes Mint Smoothie",
-    "Banana Cranberry Smoothie",
-    "Apple Cinnamon Smoothie",
-    "Pear Ginger Smoothie",
-    "Apple Kale Smoothie",
-    "Apple Carrot Smoothie",
-    "Pear Spinach Smoothie",
-    "Cherry Banana Smoothie",
-    "Plum Raspberry Smoothie",
-    "Watermelon Cucumber Smoothie",
-    "Watermelon Mint Smoothie",
-    "Nutty Seed Mix Smoothie",
-    "Plum Smoothie",
-    "Plum Smoothie with Optional Cranberries",
-    "Coconut Water Chia Drink",
+    "amla ginger shot",
+    "tulsi lemon infusion",
+    "turmeric ginger elixir",
+    "cucumber mint cooler",
+    "tomato coriander detox drink",
+    "green tea with lemon",
+    "spinach cucumber refresher",
+    "beetroot carrot juice",
+    "hibiscus iced tea",
+    "pomegranate mint fizz",
+    "lemon coconut water infusion",
+    "coriander detox water",
+    "ginger lemon jeera drink",
+    "carrot tomato cooler",
+    "cabbage celery juice",
+    "lemon turmeric buttermilk",
+    "moringa herbal drink",
+    "neem coriander juice",
+    "bael sherbet",
+    "mint cucumber sparkler",
+    "spinach cucumber juice",
+    "beetroot carrot juice",
+    "moringa lemon water",
+    "coriander spinach cooler",
+    "amla ginger shot",
+    "mint cucumber drink",
+    "tomato celery juice",
+    "curry leaf infusion",
+    "kale cucumber juice",
+    "lemon coconut water",
+    "broccoli spinach juice",
+    "hibiscus coriander drink",
+    "drumstick leaf cooler",
+    "neem lemon tonic",
+    "cucumber coriander juice",
+    "ragi buttermilk",
+    "lauki mint juice",
+    "fenugreek seed water",
+    "black chana soup",
+    "palak tomato juice",
+    "jowar vegetable upma",
+    "jowar pancakes (chilla) with spinach",
+    "jowar idli",
+    "jowar dosa",
+    "jowar and oats porridge",
+    "jowar vegetable paratha",
+    "jowar methi thepla",
+    "jowar poha with vegetables",
+    "jowar and lentil adai",
+    "jowar uttapam",
+    "jowar khichdi with moong dal",
+    "jowar roti with vegetable curry",
+    "jowar bhakri with green chutney",
+    "jowar and vegetable pulao",
+    "jowar veggie wraps",
+    "jowar biryani with paneer",
+    "jowar stuffed paratha with tofu filling",
+    "jowar tacos with rajma filling",
+    "jowar flour dumplings (muthia)",
+    "jowar and sprouts salad",
+    "jowar vegetable handvo",
+    "jowar crackers with hummus",
+    "jowar masala puffs",
+    "jowar onion pakoras (air fried)",
+    "jowar masala pancakes",
+    "jowar veggie cutlets",
+    "jowar masala balls (steamed)",
+    "jowar flour sticks with herbs",
+    "jowar chakli (baked)",
+    "jowar popcorn snack",
+    "jowar and lentil soup",
+    "jowar and spinach soup",
+    "jowar and mixed veggie salad",
+    "jowar and chickpea salad",
+    "jowar and grilled paneer salad",
+    "jowar millet soup with herbs",
+    "jowar and tomato soup",
+    "jowar and sprouts soup",
+    "jowar veggie burgers",
+    "jowar noodles with stir fry veggies",
+    "jowar veggie pizza base",
+    "jowar sushi rolls",
+    "jowar pasta with tomato basil sauce",
+    "jowar stuffed bell peppers",
+    "jowar risotto with mushrooms",
+    "jowar flour nachos with salsa",
+    "jowar wrap with grilled chicken",
+    "jowar idli",
+    "mango pineapple smoothie",
+    "papaya coconut smoothie",
+    "banana coconut water smoothie",
+    "pineapple smoothie",
+    "mango smoothie",
+    "kiwi mango smoothie",
+    "guava lime smoothie",
+    "pineapple kale smoothie",
+    "coconut mango smoothie",
+    "dragonfruit pineapple smoothie",
+    "orange carrot smoothie",
+    "lemon mint watermelon smoothie",
+    "grapefruit strawberry smoothie",
+    "lime blueberry smoothie",
+    "spinach pineapple smoothie",
+    "kale apple banana smoothie",
+    "avocado mango smoothie",
+    "cucumber kiwi smoothie",
+    "green grapes mint smoothie",
+    "banana cranberry smoothie",
+    "apple cinnamon smoothie",
+    "pear ginger smoothie",
+    "apple kale smoothie",
+    "apple carrot smoothie",
+    "pear spinach smoothie",
+    "cherry banana smoothie",
+    "plum raspberry smoothie",
+    "watermelon cucumber smoothie",
+    "watermelon mint smoothie",
+    "nutty seed mix smoothie",
+    "plum smoothie",
+    "plum smoothie with optional cranberries",
+    "coconut water chia drink",
 ];
 
 const recipeDetails = {
@@ -964,154 +964,464 @@ const recipeDetails = {
             "Serve immediately as a refreshing snack or side dish"
         ] 
     },
-    "Oats and Lentil Soup":{
+    "amla ginger shot":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2 amla",
+            "1/2 inch ginger",
+            "a pinch of black salt",
+            "water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend amla, ginger, and water",
+            "Strain and add black salt",
+            "Serve fresh"
         ] 
     },
-    "Oats and Lentil Soup":{
+    "tulsi lemon infusion":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "8 tulsi leaves",
+            "1/2 lemon",
+            "warm water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Steep tulsi leaves in warm water for 5 minutes",
+            "Add lemon juice and serve"
         ] 
     },
-    "Oats and Lentil Soup":{
+    "turmeric ginger elixir":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1/2 inch turmeric root",
+            "1/2 inch ginger",
+            "black pepper",
+            "warm water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend turmeric and ginger in warm water",
+            "Add a pinch of black pepper and serve"
         ] 
     },
-    "Oats and Lentil Soup":{
+    "cucumber mint cooler":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 cucumber",
+            "6 mint leaves",
+            "1/2 lemon",
+            "water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend cucumber, mint, and water",
+            "Strain, add lemon juice, and serve chilled"
         ] 
     },
-    "Oats and Lentil Soup":{
+    "tomato coriander detox drink":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2 tomatoes",
+            "6 coriander leaves",
+            "1/2 lemon",
+            "black salt"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend tomatoes, coriander, and water",
+            "Strain, add lemon juice and black sal"
         ] 
     },
-    "Oats and Lentil Soup":{
+    "green tea with lemon":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 green tea bag",
+            "1/2 lemon",
+            "hot water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Steep green tea bag in hot water",
+            "Add lemon juice and serve warm"
         ] 
     },
-    "Oats and Lentil Soup":{
+    "spinach cucumber refresher":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 handful spinach",
+            "1 cucumber",
+            "1/2 lemon",
+            "water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend spinach, cucumber, and water",
+            "Strain, add lemon juice, and serve"
         ] 
     },
-    "Oats and Lentil Soup":{
+    "beetroot carrot juice":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 beetroot",
+            "2 carrots",
+            "1/2 lemon"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend beetroot and carrots",
+            "Strain, add lemon juice, and serve fresh"
         ] 
     },
-    "Oats and Lentil Soup":{
+    "hibiscus iced tea":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2 dried hibiscus petals",
+            "1 cinnamon stick",
+            "water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Boil hibiscus and cinnamon in water",
+            "Cool, strain, and serve"
         ] 
     },
-    "Oats and Lentil Soup":{
+    "pomegranate mint fizz":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 cup pomegranate seeds",
+            "6 mint leaves",
+            "sparkling water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend pomegranate and mint, then strain",
+            "Add sparkling water and serve"
+        ] 
+    },
+    "lemon coconut water infusion":{
+        ingredients:[
+            "1 glass coconut wate",
+            "1/2 lemon"
+        ],
+        steps:[
+            "Mix coconut water with lemon juice",
+            "Serve chilled"
+        ] 
+    },
+    "coriander detox water":{
+        ingredients:[
+            "1 handful coriander leaves",
+            "1/2 lemon",
+            "water"
+        ],
+        steps:[
+            "Blend coriander leaves with water",
+            "Strain, add lemon juice, and serve"
+        ] 
+    },
+    "ginger lemon jeera drink":{
+        ingredients:[
+            "1/2 inch ginger",
+            "1/2 tsp roasted cumin",
+            "1/2 lemon",
+            "warm water"
+        ],
+        steps:[
+            "Blend ginger with water, add cumin and lemon",
+            "Serve warm"
+        ] 
+    },
+    "carrot tomato cooler":{
+        ingredients:[
+            "2 carrots",
+            "1 tomato",
+            "black pepper"
+        ],
+        steps:[
+            "Blend carrots and tomato",
+            "Strain, add black pepper, and serve"
+        ] 
+    },
+    "cabbage celery juice":{
+        ingredients:[
+            "1/2 cup cabbage",
+            "1 celery stalk",
+            "1/2 lemon"
+        ],
+        steps:[
+            "Blend cabbage and celery with water",
+            "Strain, add lemon juice, and serve"
+        ] 
+    },
+    "lemon turmeric buttermilk":{
+        ingredients:[
+            "1 glass buttermilk",
+            "1/4 tsp turmeric",
+            ", black salt"
+        ],
+        steps:[
+            "Mix turmeric and black salt in buttermilk",
+            "Serve chilled"
+        ] 
+    },
+    "moringa herbal drink":{
+        ingredients:[
+            "1 tbsp fresh moringa leaves",
+            "1/2 lemon",
+            "warm wate"
+        ],
+        steps:[
+            "Steep moringa in warm water for 5 minutes",
+            "Add lemon juice and serve"
+        ] 
+    },
+    "neem coriander juice":{
+        ingredients:[
+            "5 tender neem leaves",
+            "1 handful coriander",
+            "water"
+        ],
+        steps:[
+            "Blend neem and coriander with water",
+            "Strain and serve fresh"
+        ] 
+    },
+    "bael sherbet (wood apple)":{
+        ingredients:[
+            "1 bael fruit",
+            "water",
+            "black salt"
+        ],
+        steps:[
+            "Scoop out bael pulp and mash in water",
+            "Strain, add black salt, and serve"
+        ] 
+    },
+    "mint cucumber sparkler":{
+        ingredients:[
+            "1 cucumber",
+            "6 mint leaves",
+            "sparkling water"
+        ],
+        steps:[
+            "Blend cucumber and mint, strain",
+            "Add sparkling water and serve"
+        ] 
+    },
+    "spinach cucumber juice":{
+        ingredients:[
+            "1 cup spinach",
+            "1 cucumber",
+            "1/2 lemon",
+            "water",
+            "3-5 curry leaves"
+        ],
+        steps:[
+            "Blend spinach, cucumber, 3-5 curry leaves and water",
+            "Strain, add lemon juice, and serve"
+        ] 
+    },
+    "beetroot carrot juice":{
+        ingredients:[
+            "1 beetroot",
+            "2 carrots",
+            "1/2 lemon"
+        ],
+        steps:[
+            "Blend beetroot and carrots, 3-5 curry leaves",
+            "Strain, add lemon juice, and serve"
+        ] 
+    },
+    "moringa lemon water":{
+        ingredients:[
+            "1 tbsp moringa leaves",
+            "1/2 lemon",
+            "warm water"
+        ],
+        steps:[
+            "Steep moringa leaves in warm water",
+            "Add lemon juice and serve"
+        ] 
+    },
+    "coriander spinach cooler":{
+        ingredients:[
+            "1 handful coriander",
+            "1 cup spinach",
+            "3-5 curry leaves",
+            "water"
+        ],
+        steps:[
+            "Blend coriander, spinach, 3-5 curry leaves and water",
+            "Strain and serve chilled"
+        ] 
+    },
+    "amla ginger shot":{
+        ingredients:[
+            "2 amla",
+            "1/2 inch ginger",
+            "black salt",
+            "3-5 curry leaves",
+            "water"
+        ],
+        steps:[
+            "Blend amla, ginger, 3-5 curry leaves and water",
+            "Strain, add black salt, and serve"
+        ] 
+    },
+    "mint cucumber drink":{
+        ingredients:[
+            "1 cucumber",
+            "6 mint leaves",
+            "3-5 curry leaves",
+            "1/2 lemon"
+        ],
+        steps:[
+            "Blend cucumber and mint, 3-5 curry leaves with water",
+            "Strain, add lemon juice, and serve"
+        ] 
+    },
+    "tomato celery juice":{
+        ingredients:[
+            "2 tomatoes",
+            "1 celery stalk",
+            "black salt"
+        ],
+        steps:[
+            "Blend tomatoes and celery, 3-5 curry leaves with water",
+            "Strain, add black salt, and serve"
+        ] 
+    },
+    "curry leaf infusion":{
+        ingredients:[
+            "1 handful curry leaves",
+            "1/2 lemon",
+            "warm water"
+        ],
+        steps:[
+            "Steep curry leaves in warm water for 5 minutes",
+            "Add lemon juice and serve"
+        ] 
+    },
+    "kale cucumber juice":{
+        ingredients:[
+            "1 cup kale",
+            "1 cucumber",
+            "3-5 curry leaves",
+            "water"
+        ],
+        steps:[
+            "Blend kale, cucumber, and water",
+            "Strain and serve chilled"
+        ] 
+    },
+    "lemon coconut water":{
+        ingredients:[
+            "1 glass coconut water",
+            "3-5 curry leaves",
+            "1/2 lemon"
+        ],
+        steps:[
+            "Mix coconut water with lemon juice",
+            "Serve fresh"
+        ] 
+    },
+    "broccoli spinach juice":{
+        ingredients:[
+            "1/2 cup broccoli",
+            "3-5 curry leaves",
+            "1 cup spinach",
+            "lemon"
+        ],
+        steps:[
+            "Blend broccoli and spinach with water",
+            "Strain, add lemon juice, and serve"
+        ] 
+    },
+    "hibiscus coriander drink":{
+        ingredients:[
+            "2 hibiscus petals",
+            "1 handful coriander",
+            "3-5 curry leaves",
+            "water"
+        ],
+        steps:[
+            "Blend hibiscus and coriander with water",
+            "Strain and serve fresh"
+        ] 
+    },
+    "drumstick leaf cooler":{
+        ingredients:[
+            "1 cup drumstick leaves",
+            "3-5 curry leaves",
+            "1/2 lemon",
+            "water"
+        ],
+        steps:[
+            "Blend drumstick leaves with water",
+            "Strain, add lemon juice, and serve"
+        ] 
+    },
+    "neem lemon Tonic":{
+        ingredients:[
+            "5 tender neem leaves",
+            "3-5 curry leaves",
+            "1/2 lemon",
+            "water"
+        ],
+        steps:[
+            "Blend neem leaves, 3-5 curry leaves, with water",
+            "Strain, add lemon juice, and serve"
+        ] 
+    },
+    "cucumber coriander juice":{
+        ingredients:[
+            "1 cucumber",
+            "3-5 curry leaves",
+            "1 handful coriander",
+            "lemon"
+        ],
+        steps:[
+            "Blend cucumber and coriander, 3-5 curry leaves with water",
+            "Strain, add lemon juice, and serve"    
+        ] 
+    },
+    "ragi buttermilk":{
+        ingredients:[
+            "1 tbsp ragi flour",
+            "3-5 1 glass buttermilk",
+            "salt"
+        ],
+        steps:[
+            "Mix ragi flour with buttermilk",
+            "Add salt and serve chilled"
+        ] 
+    },
+    "lauki mint Juice":{
+        ingredients:[
+            "1 cup lauki",
+            "6 mint leaves",
+            "3-5 curry leaves",
+            "lemon juice"
+        ],
+        steps:[
+            "Blend lauki and mint, 3-5 curry leaves with water",
+            "Strain, add lemon juice, and serve",
+        ] 
+    },
+    "fenugreek seed water":{
+        ingredients:[
+            "1 tsp fenugreek seeds",
+            "1/2 lemon",
+            "warm water"
+        ],
+        steps:[
+            "Soak fenugreek seeds overnight",
+            "Add lemon juice and serve"
+        ] 
+    },
+    "black chana soup":{
+        ingredients:[
+            "1/2 cup boiled black chana",
+            "garlic",
+            "cumin"
+        ],
+        steps:[
+            "Blend boiled chana with water",
+            "Add garlic and cumin for flavor"
+        ] 
+    },
+    "palak tomato juice":{
+        ingredients:[
+            "1 cup palak",
+            "2 tomatoes",
+            "3-5 curry leaves",
+            "water"
+        ],
+        steps:[
+            "Blend palak and tomatoes, 3-5 curry leaves with water",
+            "Strain and serve fresh"
         ] 
     },
     "Oats and Lentil Soup":{
@@ -1136,9 +1446,8 @@ const text = document.getElementById("inputText");
 const suggest = document.getElementById("container");
 const showMessage = document.getElementById("showMessage");
 
-// Function to show search suggestions
 function showSuggest(query) {
-    suggest.innerHTML = '';  // Clear previous suggestions
+    suggest.innerHTML = '';  
     if (query === '') {
         suggest.style.display = "none";
         return;
@@ -1161,34 +1470,29 @@ function showSuggest(query) {
         suggestBlock.addEventListener("click", () => {
             text.value = item;
             suggest.style.display = "none";
-            sendMessage(item);  // Pass selected item to sendMessage
+            sendMessage(item); 
         });
         suggest.appendChild(suggestBlock);
     });
 }
 
-// Function to send message and get response
 function sendMessage(recipeName = '') {
     const message = text.value.trim() || recipeName;
-    if (message === "") return;  // Prevent sending empty messages
+    if (message === "") return;  
 
-    // Display user's message
     const userMessage = document.createElement("div");
     userMessage.textContent = `You: ${message}`;
     userMessage.classList.add("userMessage");
     showMessage.appendChild(userMessage);
 
-    // Bot response: Check if the recipe exists in the details
     const botMessage = document.createElement("div");
     if (recipeDetails[message]) {
-        // Display recipe ingredients and steps
         const { ingredients, steps } = recipeDetails[message];
         botMessage.textContent = `Blitz: Here's the recipe for "${message}"`;
 
         const recipeDetailsDiv = document.createElement("div");
         recipeDetailsDiv.classList.add("recipe-details");
 
-        // Add ingredients section
         const ingredientsHeading = document.createElement("h3");
         ingredientsHeading.textContent = "Ingredients:";
         recipeDetailsDiv.appendChild(ingredientsHeading);
@@ -1201,7 +1505,6 @@ function sendMessage(recipeName = '') {
         });
         recipeDetailsDiv.appendChild(ingredientsList);
 
-        // Add steps section
         const stepsHeading = document.createElement("h3");
         stepsHeading.textContent = "Steps:";
         recipeDetailsDiv.appendChild(stepsHeading);
@@ -1222,6 +1525,6 @@ function sendMessage(recipeName = '') {
     botMessage.classList.add("botMessage");
     showMessage.appendChild(botMessage);
     text.value = '';
-    suggest.style.display = "none";  // Hide suggestions
-    showMessage.scrollTop = showMessage.scrollHeight;  // Scroll to bottom
+    suggest.style.display = "none";  
+    showMessage.scrollTop = showMessage.scrollHeight;  
 }
