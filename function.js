@@ -1183,7 +1183,7 @@ function sendMessage(recipeName = '') {
     if (recipeDetails[message]) {
         // Display recipe ingredients and steps
         const { ingredients, steps } = recipeDetails[message];
-        botMessage.textContent = `Bot: Here's the recipe for "${message}"`;
+        botMessage.textContent = `Blitz: Here's the recipe for "${message}"`;
 
         const recipeDetailsDiv = document.createElement("div");
         recipeDetailsDiv.classList.add("recipe-details");
@@ -1216,7 +1216,7 @@ function sendMessage(recipeName = '') {
 
         showMessage.appendChild(recipeDetailsDiv);
     } else {
-        botMessage.textContent = `Bot: Sorry, I couldn't find a recipe for "${message}". Try a different one.`;
+        botMessage.textContent = `Blitz: Sorry, I couldn't find a recipe for "${message}". Try a different one.`;
     }
 
     botMessage.classList.add("botMessage");
