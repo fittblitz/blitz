@@ -1897,122 +1897,143 @@ const recipeDetails = {
     },
     "jowar and sprouts soup":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Cooked jowar grains: 1/2 cup",
+            "Mixed sprouts: 1/2 cup",
+            "Onion and garlic: 1 each, chopped",
+            "Spices: Salt, pepper, cumin",
+            "Water or broth: 2 cups"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Sauté onion and garlic, add sprouts, cooked jowar, and water.",
+            "Season with spices and simmer for 7-10 minutes."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "jowar veggie burgers":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Cooked jowar grains: 1/2 cup",
+            "Mashed boiled potatoes: 1/2 cup",
+            "Grated vegetables (carrot, zucchini): 1/2 cup",
+            "Spices: Salt, pepper, cumin powder",
+            "Burger buns: 2"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Mix jowar, potatoes, vegetables, and spices. Shape into patties and grill.",
+            "Assemble in buns with lettuce, tomato, and sauce of choice."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "jowar noodles with stir fry veggies":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Jowar noodles: 1 cup (store-bought or homemade)",
+            "Stir-fry vegetables (capsicum, carrot, broccoli): 1 cup",
+            "Soy sauce: 1 tbsp",
+            "Garlic: 2 cloves, minced"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Boil noodles and set aside.",
+            "Stir-fry garlic and vegetables.",
+            "add soy sauce and noodles.",
+            "Toss and serve."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "jowar veggie pizza base":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Jowar flour: 1 cup",
+            "Yogurt: 1/4 cup",
+            "Mixed vegetables: 1/2 cup",
+            "Tomato sauce and cheese: As needed"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Mix jowar flour and yogurt into a dough. Roll out and cook on a tawa",
+            "Spread tomato sauce, add vegetables and cheese, and bake until golden."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "jowar sushi rolls":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Cooked jowar grains: 1/2 cup",
+            "Nori sheets: 2",
+            "Julienned vegetables (carrot, cucumber, avocado): 1/2 cup",
+            "Soy sauce: For dipping"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Spread cooked jowar on nori sheets, add vegetables, and roll tightly.",
+            "Slice into pieces and serve with soy sauce."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "jowar pasta with tomato basil sauce":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Jowar pasta: 1 cup (store-bought or homemade)",
+            "Tomato puree: 1 cup",
+            "Basil leaves: Few",
+            "Garlic: 2 cloves, minced"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Cook pasta and set aside.",
+            "Sauté garlic, add tomato puree and basil, then mix with pasta."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "jowar stuffed bell peppers":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Cooked jowar grains: 1 cup",
+            "Bell peppers: 2 (halved and deseeded)",
+            "Grated vegetables (carrot, zucchini): 1/2 cup",
+            "Cheese: 2 tbsp"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Mix jowar and vegetables, stuff into bell pepper halves.",
+            "Top with cheese and bake at 180°C for 15-20 minutes."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "jowar risotto with mushrooms":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Cooked jowar grains: 1 cup",
+            "Mushrooms: 1 cup, sliced",
+            "Garlic: 2 cloves, minced",
+            "Vegetable broth: 2 cups"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Sauté garlic and mushrooms, add cooked jowar.",
+            "Pour broth gradually, cook until creamy."
+        ] 
+    },
+    "jowar flour nachos with salsa":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Spices: Chili powder, salt",
+            "Tomato salsa: 1/2 cup"
+        ],
+        steps:[
+            "Mix jowar flour, spices, and water into a dough. Roll thin, cut into triangles, and bake until crispy.",
+            "Serve with tomato salsa."
+        ] 
+    },
+    "jowar wrap with grilled chicken":{
+        ingredients:[
+            "Jowar rotis: 2",
+            "Grilled chicken strips: 1/2 cup",
+            "Lettuce, tomato, and cucumber: 1/2 cup",
+            "Yogurt-based sauce: 2 tbsp"
+        ],
+        steps:[
+            "Layer grilled chicken and vegetables on a jowar roti.",
+            "Add yogurt sauce, wrap, and serve."
+        ] 
+    },
+    "jowar idli":{
+        ingredients:[
+            "1 cup jowar flour",
+            "1/4 cup rice flour",
+            "1/2 cup yogurt",
+            "1/2 tsp baking soda",
+            "1/2 tsp salt (or to taste)",
+            "Water (as needed)"
+        ],
+        steps:[
+            "In a mixing bowl, combine jowar flour, rice flour, salt, and yogurt.",
+            "Add water little by little to make a smooth batter (similar to regular idli batter consistency).",
+            "Add baking soda and mix well.",
+            "Grease the idli molds with oil and pour the batter into each mold.",
+            "Steam the idlis for about 10-15 minutes or until they are cooked and firm to touch.",
+            "Serve hot with chutney or sambar."
         ] 
     },
     "Oats and Lentil Soup":{
