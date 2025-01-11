@@ -2261,167 +2261,160 @@ const recipeDetails = {
     },
     "banana cranberry smoothie":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 banana",
+            "1/2 cup cranberries (fresh or thawed if frozen)",
+            "1/2 cup plain water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend banana, cranberries, and water until smooth.",
+            "Sprinkle chia seeds and sunflower seeds for garnish."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "apple cinnamon smoothie":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 apple (cored and sliced)",
+            "1/4 tsp cinnamon",
+            "1/2 cup plain water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend apple, cinnamon, and water until smooth.",
+            "Garnish with flaxseeds and chia seeds."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "pear ginger smoothie":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 pear (cored and sliced)",
+            "1/2 inch fresh ginger (peeled)",
+            "1/2 cup plain water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend pear, ginger, and water until smooth.",
+            "Top with pumpkin seeds and sesame seeds."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "apple kale smoothie":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 apple (cored and sliced)",
+            "1/2 cup kale (chopped)",
+            "1/2 cup plain water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend apple, kale, and water until smooth.",
+            "Garnish with chia seeds and sunflower seeds."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "apple carrot smoothie":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 apple (cored and sliced)",
+            "1/2 cup carrot (diced)",
+            "1/2 cup plain water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend apple, carrot, and water until smooth.",
+            "Sprinkle flaxseeds and pumpkin seeds."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "pear spinach smoothie":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 pear (cored and sliced)",
+            "1/2 cup spinach (washed)",
+            "1/2 cup plain water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend pear, spinach, and water until smooth.",
+            "Garnish with sunflower seeds and chia seeds."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "cherry banana smoothie":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 banana",
+            "1 cup cherries (pitted)",
+            "1/2 cup plain water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend banana, cherries, and water until smooth.",
+            "Garnish with chia seeds and sunflower seeds."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "plum raspberry smoothie":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2 plums (pitted)",
+            "1/2 cup raspberries (fresh or thawed)",
+            "1/2 cup plain water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend plums, raspberries, and water until smooth.",
+            "Sprinkle flaxseeds and pumpkin seeds on top."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "watermelon cucumber smoothie":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 cup watermelon (diced)",
+            "1/2 cup cucumber (sliced)",
+            "1/2 cup plain water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend watermelon, cucumber, and water until smooth.",
+            "Garnish with sesame seeds and chia seeds."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "watermelon mint smoothie":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1 cup watermelon (diced)",
+            "4 or 5 fresh mint leaves",
+            "1/2 cup plain water"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Blend watermelon, mint leaves, and water until smooth.",
+            "Sprinkle sunflower seeds and flaxseeds on top."
         ] 
     },
-    "Oats and Lentil Soup":{
+    "nutty seed mix smoothie":{
         ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2 or 3 dates (pitted)",
+            "1 tbsp roasted pumpkin seeds",
+            "1 tbsp flaxseeds",
+            "1 tbsp sesame seeds",
+            "1 tbsp sunflower seeds",
+            "1 tsp chia seeds",
+            "5 or 6 soaked almonds (peeled)",
+            "1 cup plain water or warm almond milk",
+            "1/2 banana (optional, for creaminess)"
         ],
         steps:[
-            "",
-            "",
-            ""
+            "Soak dates in warm water for 10 minutes (optional for softer texture).",
+            "Add the soaked almonds, dates, and liquid (water or warm almond milk) to a blender.",
+            "Add roasted pumpkin seeds, flaxseeds, sesame seeds, sunflower seeds, and chia seeds.",
+            "Blend until smooth and creamy.",
+            "Pour into a glass and enjoy immediately!",
+            "Sprinkle extra roasted pumpkin seeds or sesame seeds on top for crunch."
+        ] 
+    },
+    "plum smoothie with optional cranberries":{
+        ingredients:[
+            "2 plums (pitted and sliced)",
+            "1/4 cup cranberries (optional, fresh or thawed)",
+            "1/2 banana (for creaminess)",
+            "1/2 cup plain water (or lukewarm water for winter)"
+        ],
+        steps:[
+            "Add plums, banana, and cranberries (if using) to a blender.",
+            "Pour in water and blend until smooth.",
+            "Pour into a glass and serve immediately.",
+            "Sprinkle with a mix of chia seeds, flaxseeds, and roasted sunflower seeds for extra crunch and nutrition."
+        ] 
+    },
+    "coconut water chia drink":{
+        ingredients:[
+            "1 cup fresh coconut water",
+            "1 tbsp chia seeds",
+            "Optional garnish: Roasted pumpkin seeds, flaxseeds, or sunflower seeds"
+        ],
+        steps:[
+            "Soak chia seeds in 1/4 cup coconut water for 10 or 15 minutes until they form a gel-like texture.",
+            "Combine the soaked chia seeds with the remaining coconut water.",
+            "Stir well and pour into a glass.",
+            "Garnish with a mix of roasted seeds for an added crunch."
         ] 
     },
     "Oats and Lentil Soup":{
