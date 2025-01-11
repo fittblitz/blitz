@@ -1424,6 +1424,612 @@ const recipeDetails = {
             "Strain and serve fresh"
         ] 
     },
+    "jowar vegetable upma":{
+        ingredients:[
+            "Jowar rava: 1 cup",
+"Mixed vegetables (carrot, beans, peas): 1 cup",
+"Mustard seeds: 1 tsp",
+"Curry leaves: 8-10",
+"Green chilies: 2, chopped",
+"Water: 2 cups",
+"Salt: To taste"
+        ],
+        steps:[
+            "Dry roast jowar rava and set aside.",
+            "Heat oil, add mustard seeds, curry leaves, and chilies.",
+            "Sauté vegetables, add water and salt, and bring to a boil.",
+            "Stir in jowar rava and cook until water is absorbed."
+        ] 
+    },
+    "jowar pancakes (chilla) with spinach":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Spinach: 1/2 cup, chopped",
+"Green chilies: 2, chopped",
+"Ginger: 1/2 tsp, grated",
+"Salt: To taste",
+"Water: As needed"
+        ],
+        steps:[
+            "Mix all ingredients with water to make a smooth batter.",
+            "Heat a pan, pour batter, and spread into a thin circle.",
+            "Cook on both sides until golden."
+        ] 
+    },
+    "jowar idli":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+"Urad dal batter: 1/2 cup",
+"Water: As needed",
+"Salt: To taste",
+"Eno: 1 tsp"
+        ],
+        steps:[
+            "Mix jowar flour with urad dal batter and water to make a thick batter.",
+            "Add salt and Eno, mix gently.",
+            "Pour into idli molds and steam for 12-15 minutes."
+        ] 
+    },
+    "jowar dosa":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+"Rice flour: 1/4 cup",
+"Curd: 2 tbsp",
+"Water: As needed",
+"Salt: To taste"
+        ],
+        steps:[
+            "Mix all ingredients into a thin batter.",
+            "Heat a dosa tawa, pour batter, and spread thinly.",
+            "Cook on both sides until crispy."
+        ] 
+    },
+    "jowar and oats porridge":{
+        ingredients:[
+            "Jowar flour: 2 tbsp",
+"Oats: 2 tbsp",
+"Water: 2 cups",
+"Salt: To taste",
+"Optional spices: Black pepper, cumin powder"
+        ],
+        steps:[
+            "Mix jowar flour and oats with water in a pot.",
+            "Cook on medium heat, stirring until thickened.",
+            "Add salt and optional spices before serving."
+        ] 
+    },
+    "jowar vegetable paratha":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+"Grated vegetables (carrot, zucchini): 1/2 cup",
+"Salt and spices: As needed",
+"Water: As needed"
+        ],
+        steps:[
+            "Mix jowar flour, vegetables, salt, and spices; knead into a soft dough.",
+            "Roll into parathas and cook on a tawa with minimal oil."
+        ] 
+    },
+    "jowar methi thepla":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+"Fresh methi leaves: 1/2 cup, chopped",
+"Curd: 2 tbsp",
+"Salt and spices: As needed",
+"Water: As needed"
+        ],
+        steps:[
+            "Combine ingredients into a soft dough.",
+            "Roll thin theplas and cook on a tawa with a little oil."
+        ] 
+    },
+    "jowar poha with vegetables":{
+        ingredients:[
+            "Jowar poha: 1 cup",
+            "Mixed vegetables (carrot, beans, peas): 1/2 cup",
+            "Mustard seeds: 1 tsp",
+            "Curry leaves: 8-10",
+            "Green chilies: 2, chopped"
+        ],
+        steps:[
+            "Rinse jowar poha and set aside.",
+            "Heat oil, add mustard seeds, curry leaves, and chilies.",
+            "Sauté vegetables, add poha, and cook for 2-3 minutes"
+        ] 
+    },  
+    "jowar and lentil adai":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Soaked moong dal: 1/2 cup",
+            "Spices: Turmeric, red chili powder, salt",
+            "Water: As needed"
+        ],
+        steps:[
+            "Grind soaked moong dal and mix with jowar flour.",
+            "Add spices and water to form a batter.",
+            "Cook on a tawa like pancakes."
+        ] 
+    },
+    "jowar uttapam":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Rice flour: 1/4 cup",
+            "Curd: 2 tbsp",
+            "Chopped vegetables (onion, tomato, chili): 1/2 cup"
+        ],
+        steps:[
+            "Mix flours, curd, and water to make a batter.",
+            "Pour batter onto a hot tawa, top with vegetables, and cook on both sides"
+        ] 
+    },
+    "jowar khichdi with moong dal":{
+        ingredients:[
+            "Jowar grains: 1/2 cup (soaked overnight)",
+            "Moong dal: 1/4 cup",
+            "Mixed vegetables: 1 cup",
+            "Spices: Turmeric, cumin seeds, salt",
+            "Water: 3 cups"
+        ],
+        steps:[
+            "Pressure cook soaked jowar, moong dal, and vegetables with spices for 3-4 whistles.",
+            "Simmer to desired consistency and serve hot."
+        ] 
+    },
+    "jowar roti with vegetable curry":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Water: As needed",
+            "Mixed vegetables (carrot, beans, peas): 2 cups",
+            "Spices: Garam masala, turmeric, cumin seeds, salt"
+        ],
+        steps:[
+            "Knead jowar flour with warm water into a soft dough. Roll into thin rotis and cook on a tawa.",
+            "Saute vegetables with spices, add water, and simmer until cooked. Serve with rotis."
+        ] 
+    },
+    "jowar bhakri with green chutney":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Water: As needed",
+            "Green chutney: Coriander, mint, green chilies, garlic, and lemon juice"
+        ],
+        steps:[
+            "Knead jowar flour with warm water, shape into thick flatbreads, and cook on a tawa.",
+            "Blend chutney ingredients into a paste and serve with hot bhakris."
+        ] 
+    },
+    "jowar and vegetable pulao":{
+        ingredients:[
+            "Jowar grains: 1 cup (soaked overnight)",
+            "Mixed vegetables: 1 cup",
+            "Spices: Bay leaf, cloves, cumin, garam masala, salt",
+            "Water: 2 cups"
+        ],
+        steps:[
+            "Cook soaked jowar grains with water until soft.",
+            "Saute vegetables and spices, mix with jowar, and cook for 5 minutes."
+        ] 
+    },
+    "jowar veggie wraps":{
+        ingredients:[
+            "Jowar rotis: 2",
+            "Grated vegetables (carrot, cabbage, capsicum): 1 cup",
+            "Yogurt or hummus: 2 tbsp",
+            "Spices: Salt, black pepper"
+        ],
+        steps:[
+            "Spread yogurt or hummus on a jowar roti.",
+            "Add spiced vegetables, roll, and serve."
+        ] 
+    },
+    "jowar biryani with paneer":{
+        ingredients:[
+            "Jowar grains: 1 cup (soaked overnight)",
+            "Paneer: 100g, cubed",
+            "Mixed vegetables: 1 cup",
+            "Spices: Bay leaf, cinnamon, cloves, biryani masala, salt",
+            "Water: 2 cups"
+        ],
+        steps:[
+            "Cook soaked jowar grains with water until soft.",
+            "Sauté vegetables, paneer, and spices, then layer with jowar. Cover and cook for 10 minutes."
+        ] 
+    },
+    "jowar stuffed paratha with tofu filling":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Tofu: 1/2 cup, crumbled",
+            "Spices: Salt, cumin, chili powder"
+        ],
+        steps:[
+            "Knead jowar flour into a soft dough.",
+            "Stuff dough balls with spiced tofu, roll, and cook on a tawa."
+        ] 
+    },
+    "jowar tacos with rajma filling":{
+        ingredients:[
+            "Jowar rotis: 2",
+            "Cooked rajma: 1/2 cup",
+            "Chopped vegetables: 1 cup (onion, tomato, lettuce)",
+            "Spices: Taco seasoning or chili powder"
+        ],
+        steps:[
+            "Sauté rajma with spices and layer on jowar rotis.",
+            "Add vegetables, fold, and serve."
+        ] 
+    },
+    "jowar flour dumplings (muthia)":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Grated vegetables (bottle gourd, carrot): 1/2 cup",
+            "Spices: Turmeric, chili powder, sesame seeds, salt",
+            "Yogurt: 2 tbsp"
+        ],
+        steps:[
+            "Mix ingredients into a dough, shape into logs, and steam for 15 minutes.",
+            "Slice and temper with sesame seeds and curry leaves."
+        ] 
+    },
+    "jowar and sprouts salad":{
+        ingredients:[
+            "Cooked jowar grains: 1 cup",
+            "Mixed sprouts: 1/2 cup",
+            "Chopped vegetables: 1 cup (cucumber, tomato, onion)",
+            "Lemon juice: 1 tbsp",
+            "Salt and pepper: To taste"
+        ],
+        steps:[
+            "Mix jowar grains, sprouts, and vegetables in a bowl.",
+            "Season with lemon juice, salt, and pepper"
+        ] 
+    },
+    "jowar vegetable handvo":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Grated vegetables (zucchini, carrot): 1/2 cup",
+            "Yogurt: 1/4 cup",
+            "Spices: Salt, turmeric, chili powder, sesame seeds",
+            "Eno: 1 tsp"  
+        ],
+        steps:[
+            "Mix flour, vegetables, yogurt, and spices into a batter. Add Eno just before steaming.",
+            "Pour batter into a greased dish, sprinkle sesame seeds, and steam for 20 minutes."
+        ] 
+    },
+    "jowar crackers with hummus":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Olive oil: 2 tbsp",
+            "Mixed herbs: 1 tsp",
+            "Salt: To taste"
+        ],
+        steps:[
+            "Mix ingredients into a dough, roll thin, and cut into shapes.",
+            "Bake at 180°C for 12-15 minutes until crispy. Serve with hummus."
+        ] 
+    },
+    "jowar masala puffs":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Baking powder: 1/2 tsp",
+            "Spices: Chili powder, cumin powder, salt",
+            "Water: As needed"
+        ],
+        steps:[
+            "Mix flour, baking powder, spices, and water into a thick batter.",
+            "Drop small portions into hot oil or bake at 180°C until puffy and crispy."
+        ] 
+    },
+    "jowar onion pakoras (air fried)":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Sliced onions: 1 cup",
+            "Spices: Turmeric, chili powder, salt",
+            "Water: As needed"
+        ],
+        steps:[
+            "Mix onions with flour, spices, and water into a thick batter.",
+            "Shape small pakoras, air-fry at 200°C for 12-15 minutes."
+        ] 
+    },
+    "jowar masala pancakes":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Chopped vegetables (onion, tomato, capsicum): 1/2 cup",
+            "Spices: Turmeric, chili powder, salt",
+            "Water: As needed"
+        ],
+        steps:[
+            "Mix all ingredients into a batter.",
+            "Cook small pancakes on a non-stick pan until golden on both sides."
+        ] 
+    },
+    "jowar veggie cutlets":{
+        ingredients:[
+            "Cooked jowar grains: 1 cup",
+            "Mashed boiled potatoes: 1/2 cup",
+            "Grated vegetables (carrot, peas): 1/2 cup",
+            "Spices: Garam masala, chili powder, salt"
+        ],
+        steps:[
+            "Mix all ingredients",
+            "shape into cutlets",
+            "shallow-fry or bake until golden"
+        ] 
+    },
+    "jowar masala balls (steamed)":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Grated vegetables (carrot, cabbage): 1/2 cup",
+            "Spices: Turmeric, chili powder, salt",
+            "Water: As needed"
+        ],
+        steps:[
+            "Mix ingredients into a dough",
+            "Shape into small balls",
+            "Steam for 10-12 minutes until cooked."
+        ] 
+    },
+    "jowar flour sticks with herbs":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Mixed herbs: 1 tsp",
+            "Olive oil: 2 tbsp",
+            "Salt: To taste"
+        ],
+        steps:[
+            "Mix flour, herbs, oil, and water into a dough.",
+            "Roll into thin sticks, bake at 180°C for 10-12 minutes."
+        ] 
+    },
+    "jowar chakli (baked)":{
+        ingredients:[
+            "Jowar flour: 1 cup",
+            "Sesame seeds: 1 tsp",
+            "Spices: Chili powder, cumin powder, salt",
+            "Water: As needed"
+        ],
+        steps:[
+            "Mix ingredients into a dough, shape into spirals using a chakli press.",
+            "Bake at 180°C for 15-18 minutes until crispy.",
+            ""
+        ] 
+    },
+    "jowar popcorn snack":{
+        ingredients:[
+            "Popped jowar: 2 cups",
+            "Olive oil: 1 tsp",
+            "Spices: Chili powder, chaat masala, salt"  
+        ],
+        steps:[
+            "Toss popped jowar with olive oil and spices.",
+            "Serve as a light and crunchy snack."
+        ] 
+    },
+    "jowar and lentil soup":{
+        ingredients:[
+            "Cooked jowar grains: 1/2 cup",
+            "Yellow lentils (moong dal): 1/4 cup",
+            "Onion and tomato: 1 each, chopped",
+            "Spices: Turmeric, cumin, salt",
+            "Water: 2 cups"
+        ],
+        steps:[
+            "Cook lentils with water, onion, tomato, and spices.",
+            "Add cooked jowar and simmer for 5-7 minutes."
+        ] 
+    },
+    "jowar and spinach soup":{
+        ingredients:[
+            "Cooked jowar grains: 1/2 cup",
+            "Spinach: 1 cup, chopped",
+            "Garlic: 2 cloves, minced",
+            "Salt and pepper: To taste",
+            "Water or broth: 2 cups"
+        ],
+        steps:[
+            "Sauté garlic and spinach in a pot.",
+            "Add water, cooked jowar, and simmer for 5 minutes. Blend slightly if desired."
+        ] 
+    },
+    "jowar and mixed veggie salad":{
+        ingredients:[
+            "Cooked jowar grains: 1 cup",
+            "Chopped vegetables (cucumber, tomato, carrot): 1 cup",
+            "Lemon juice: 1 tbsp",
+            "Salt and pepper: To taste"
+        ],
+        steps:[
+            "Mix jowar grains and vegetables in a bowl.",
+            "Drizzle with lemon juice, salt, and pepper. Toss and serve"
+        ] 
+    },
+    "jowar and chickpea salad":{
+        ingredients:[
+            "Cooked jowar grains: 1 cup",
+            "Boiled chickpeas: 1/2 cup",
+            "Chopped onion and bell peppers: 1/2 cup",
+            "Olive oil: 1 tbsp",
+            "Lemon juice: 1 tbsp"
+        ],
+        steps:[
+            "Combine jowar, chickpeas, and vegetables.",
+            "Add olive oil, lemon juice, salt, and toss well."
+        ] 
+    },
+    "jowar and grilled paneer salad":{
+        ingredients:[
+            "Cooked jowar grains: 1 cup",
+            "Grilled paneer cubes: 1/2 cup",
+            "Chopped lettuce, cucumber, and tomato: 1 cup",
+            "Dressing: Olive oil, salt, pepper"
+        ],
+        steps:[
+            "Mix jowar grains, grilled paneer, and vegetables.",
+            "Drizzle with dressing and serve fresh."
+        ] 
+    },
+    "jowar millet soup with herbs":{
+        ingredients:[
+            "Cooked jowar grains: 1/2 cup",
+            "Mixed herbs (thyme, parsley): 1 tsp",
+            "Garlic: 2 cloves, minced",
+            "Salt and pepper: To taste",
+            "Water or vegetable broth: 2 cups"
+        ],
+        steps:[
+            "Sauté garlic and herbs in a pot.",
+            "Add water, cooked jowar, salt, and pepper, and simmer for 7-10 minutes"
+        ] 
+    },
+    "jowar and tomato soup":{
+        ingredients:[
+            "Cooked jowar grains: 1/2 cup",
+            "Tomatoes: 3, chopped",
+            "Onion: 1, chopped",
+            "Garlic: 2 cloves, minced",
+            "Water or broth: 2 cups"
+        ],
+        steps:[
+            "Sauté onion and garlic, add tomatoes and cook until soft.",
+            "Blend the mixture, add cooked jowar, and simmer for 5 minutes."
+        ] 
+    },
+    "jowar and sprouts soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
     "Oats and Lentil Soup":{
         ingredients:[
             "",
