@@ -2036,6 +2036,379 @@ const recipeDetails = {
             "Serve hot with chutney or sambar."
         ] 
     },
+    "mango pineapple smoothie":{
+        ingredients:[
+            "1 cup mango (diced)",
+            "1 cup pineapple (diced)",
+            "1 cup coconut water",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend mango, pineapple, and coconut water until smooth.",
+            "Garnish with chia seeds and flaxseeds."
+        ] 
+    },
+    "papaya coconut smoothie":{
+        ingredients:[
+            "1 cup papaya (diced)",
+            "1/2 cup coconut milk",
+            "1/2 cup plain water",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend papaya, coconut milk, and water until smooth.",
+            "Sprinkle sunflower seeds and pumpkin seeds on top.",
+        ] 
+    },
+    "banana coconut water smoothie":{
+        ingredients:[
+            "1 ripe banana",
+            "1 cup coconut water (or plain water if not available)",
+            "1/4 tsp cinnamon (optional)",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend banana and coconut water until creamy.",
+            "Top with sunflower seeds and chia seeds."
+        ] 
+    },
+    "pineapple smoothie":{
+        ingredients:[
+            "1 cup pineapple (diced)",
+            "1/2 cup plain water",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend pineapple, orange, and water until smooth.",
+            "Garnish with sesame seeds and flaxseeds."
+        ] 
+    },
+    "mango smoothie":{
+        ingredients:[
+            "1 cup mango (diced)",
+            "1 cup Curd",
+            "1/2 cup plain water",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend mango, passionfruit, and water until smooth.",
+            "Sprinkle chia seeds and pumpkin seeds on top."
+        ] 
+    },
+    "kiwi mango smoothie":{
+        ingredients:[
+            "1 kiwi (peeled and sliced)",
+            "1/2 cup mango (diced)",
+            "1/2 cup plain water",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend kiwi, mango, and water until smooth.",
+            "Top with sunflower seeds and hemp seeds."
+        ] 
+    },
+    "guava lime smoothie":{
+        ingredients:[
+            "1 guava (seeded and diced)",
+            "1 tbsp lime juice",
+            "1/2 cup plain water",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend guava, lime juice, and water until smooth.",
+            "Garnish with pumpkin seeds and chia seeds."
+        ] 
+    },
+    "pineapple kale smoothie":{
+        ingredients:[
+            "1 cup pineapple (diced)",
+            "1/2 cup kale (chopped)",
+            "1/2 cup plain water"
+        ],
+        steps:[
+            "Blend pineapple, kale, and water until smooth.",
+            "Sprinkle sesame seeds and flaxseeds for garnish."
+        ] 
+    },
+    "coconut mango smoothie":{
+        ingredients:[
+            "1 cup mango (diced)",
+            "1/2 cup coconut milk",
+            "1/2 cup plain water",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend mango, coconut milk, and water until smooth.",
+            "Garnish with sunflower seeds and chia seeds."
+        ] 
+    },
+    "dragonfruit pineapple smoothie":{
+        ingredients:[
+            "1 cup dragonfruit (diced)",
+            "1/2 cup pineapple (diced)",
+            "1/2 cup plain water",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend dragonfruit, pineapple, and water until smooth.",
+            "Top with flaxseeds and pumpkin seeds."
+        ] 
+    },
+    "orange carrot smoothie":{
+        ingredients:[
+            "1 orange (peeled and segmented)",
+            "1/2 cup carrot (grated or diced)",
+            "1/2 cup plain water",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend orange, carrot, and water until smooth.",
+            "Garnish with chia seeds and sunflower seeds."
+        ] 
+    },
+    "lemon mint watermelon smoothie":{
+        ingredients:[
+            "1 cup watermelon (diced)",
+            "1 tbsp lemon juice",
+            "4 or 5 fresh mint leaves",
+            "2-3 Ice cubes",
+            "1/2 cup plain water"
+        ],
+        steps:[
+            "Blend watermelon, lemon juice, mint leaves, and water until smooth.",
+            "Sprinkle flaxseeds and pumpkin seeds on top."
+        ] 
+    },
+    "grapefruit strawberry smoothie":{
+        ingredients:[
+            "1 grapefruit (peeled and segmented)",
+            "1/2 cup strawberries (fresh or thawed if frozen)",
+            "1/2 cup plain water",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend grapefruit, strawberries, and water until smooth.",
+            "Garnish with chia seeds and sesame seeds."
+        ] 
+    },
+    "lime blueberry smoothie":{
+        ingredients:[
+            "1 cup blueberries (fresh or thawed if frozen)",
+            "1 tbsp lime juice",
+            "1/2 cup plain water",
+            "2-3 Ice cubes"
+        ],
+        steps:[
+            "Blend blueberries, lime juice, and water until smooth.",
+            "Top with hemp seeds and sunflower seeds."
+        ] 
+    },
+    "spinach pineapple smoothie":{
+        ingredients:[
+            "1 cup spinach (washed)",
+            "1 cup pineapple (diced)",
+            "1/2 cup plain water"
+        ],
+        steps:[
+            "Blend spinach, pineapple, and water until smooth.",
+            "Garnish with chia seeds and flaxseeds."
+        ] 
+    },
+    "kale apple banana smoothie":{
+        ingredients:[
+            "1/2 cup kale (chopped)",
+            "1 apple (cored and sliced)",
+            "1/2 banana",
+            "1/2 cup plain water"
+        ],
+        steps:[
+            "Blend kale, apple, banana, and water until smooth.",
+            "Top with sunflower seeds and pumpkin seeds."
+        ] 
+    },
+    "avocado mango smoothie":{
+        ingredients:[
+            "1/2 avocado",
+            "1/2 cup mango (diced)",
+            "1/2 cup plain water"
+        ],
+        steps:[
+            "Blend avocado, mango, and water until creamy.",
+            "Sprinkle flaxseeds and sesame seeds on top."
+        ] 
+    },
+    "cucumber kiwi smoothie":{
+        ingredients:[
+            "1/2 cup cucumber (sliced)",
+            "1 kiwi (peeled and sliced)",
+            "1/2 cup plain water"
+        ],
+        steps:[
+            "Blend cucumber, kiwi, and water until smooth.",
+            "Garnish with hemp seeds and chia seeds."
+        ] 
+    },
+    "green grapes mint smoothie":{
+        ingredients:[
+            "1 cup green grapes (seedless)",
+            "4 or 5 fresh mint leaves",
+            "1/2 cup plain water"
+        ],
+        steps:[
+            "Blend grapes, mint leaves, and water until smooth.",
+            "Top with pumpkin seeds and flaxseeds."
+        ] 
+    },
+    "banana cranberry smoothie":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
+    "Oats and Lentil Soup":{
+        ingredients:[
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        steps:[
+            "",
+            "",
+            ""
+        ] 
+    },
     "Oats and Lentil Soup":{
         ingredients:[
             "",
