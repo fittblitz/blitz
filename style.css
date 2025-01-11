@@ -8,6 +8,14 @@
     font-family:robotoCon;
     src: url('RobotoCondensed-Medium.ttf');
 }
+@font-face{
+    font-family:robotoConLight;
+    src:url('RobotoCondensed-Light.ttf');
+}
+@font-face{
+    src:url('OpenSans-Medium.ttf');
+    font-family:openSans;
+}
 body {
     font-family: Arial, sans-serif;
     background-color: #f1f1f1;
@@ -21,6 +29,7 @@ body {
 .box-1 {
     background-color: #4ca0af;
     color: white;
+    font-size:15px;
     padding: 10px 20px;
     width: 100%;
 }
