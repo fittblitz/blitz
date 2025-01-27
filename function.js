@@ -169,9 +169,196 @@ const keyword = [
     "plum smoothie",
     "plum smoothie with optional cranberries",
     "coconut water chia drink",
+    "lauki stuffed paratha",
+    "mix veg curd sandwich",
+    "egg omelette",
+    "boiled potato chaat",
+    "palak paneer sabji",
+    "sweet potato chaat",
+    "mix fruit bowl",
+    "pumpkin sabji",
+    "makhana chaat roasted",
+    "curd rice",
+    "oats milk",
+    "pumpkin raita",
+    "vegetable fried rice",
+    "quinoa chilla",
+    "quinoa vegetable pulao"
 ];
 
 const recipeDetails = {
+  "egg omelette": {
+        ingredients: [
+            "2 eggs",
+            "Chopped veggies: onion, tomato, green chili",
+            "Salt and pepper",
+            "Ghee or oil"
+        ],
+        steps: [
+            "Beat eggs, mix in veggies and spices.",
+            "Cook on a greased pan, flipping once."
+        ]
+    },
+      "boiled potato chaat": {
+        ingredients: [
+            "2 boiled potatoes (cubed)",
+            "Chaat masala, chili powder, salt",
+            "Lemon juice",
+            "Coriander"
+        ],
+        steps: [
+            "Toss boiled potatoes with spices and lemon juice.",
+            "Garnish with chopped coriander."
+        ]
+    },
+      "palak paneer sabji": {
+        ingredients: [
+            "2 cups spinach",
+            "100g paneer (cubed)",
+            "Onion, tomato, garlic",
+            "Spices: turmeric, cumin, chili powder"
+        ],
+        steps: [
+            "Cook spinach with onion, garlic, and spices. Blend into a paste.",
+            "Add paneer cubes and simmer."
+        ]
+    },
+      "sweet potato chaat": {
+        ingredients: [
+            "1 boiled sweet potato (cubed)",
+            "Salt, cumin, chili powder",
+            "Lemon juice",
+            "Coriander"
+        ],
+        steps: [
+            "Toss boiled sweet potatoes with spices and lemon juice.",
+            "Garnish with coriander."
+        ]
+    },
+      "mix fruit bowl": {
+        ingredients: [
+            "Seasonal fruits (chopped)",
+            "Nuts and seeds mix"
+        ],
+        steps: [
+            "Add chopped fruits to a bowl.",
+            "Sprinkle nuts and seeds on top."
+        ]
+    },
+      "pumpkin sabji": {
+        ingredients: [
+            "1 cup diced pumpkin",
+            "Mustard seeds, turmeric, chili powder",
+            "Ghee or oil"
+        ],
+        steps: [
+            "Heat ghee, add mustard seeds and spices.",
+            "Add pumpkin, cook until tender."
+        ]
+    },
+      "makhana chaat roasted": {
+        ingredients: [
+            "1 cup roasted makhana",
+            "Chaat masala, chili powder",
+            "Lemon juice"
+        ],
+        steps: [
+            "Roast makhana in ghee.",
+            "Toss with spices and lemon juice."
+        ]
+    },
+      "curd rice": {
+        ingredients: [
+            "1 cup cooked rice",
+            "1/2 cup curd",
+            "Curry leaves, mustard seeds",
+            "Salt"
+        ],
+        steps: [
+            "Mix rice, curd, and salt.",
+            "Temper with mustard seeds and curry leaves."
+        ]
+    },
+      "oats milk": {
+        ingredients: [
+            "1/4 cup oats",
+            "1 cup milk",
+            "Chopped fruits and nuts"
+        ],
+        steps: [
+            "Cook oats in milk.",
+            "Top with fruits and nuts."
+        ]
+    },
+      "pumpkin raita": {
+        ingredients: [
+            "1/2 cup grated pumpkin",
+            "1/2 cup curd",
+            "Cumin powder, salt"
+        ],
+        steps: [
+            "Mix grated pumpkin, curd, and spices.",
+            "Serve chilled."
+        ]
+    },
+      "vegetable fried rice": {
+        ingredients: [
+            "1 cup cooked rice",
+            "Mixed veggies",
+            "Soy sauce, pepper"
+        ],
+        steps: [
+            "Stir-fry veggies, add rice and soy sauce.",
+            "Toss well and serve."
+        ]
+    },
+      "quinoa chilla": {
+        ingredients: [
+            "1 cup cooked quinoa",
+            "1/2 cup gram flour",
+            "Spices and veggies"
+        ],
+        steps: [
+            "Mix all into a batter.",
+            "Cook on a hot pan like a pancake."
+        ]
+    },
+      "quinoa vegetable pulao": {
+        ingredients: [
+            "1 cup quinoa",
+            "Mixed veggies",
+            "Spices, ghee"
+        ],
+        steps: [
+            "Cook quinoa with veggies and spices.",
+            "Serve warm."
+        ]
+    },
+
+    "mix veg curd sandwich": {
+        ingredients: [
+            "2 bread slices",
+            "1/2 cup curd",
+            "Chopped veggies: carrot, onion, capsicum",
+            "Salt and pepper"
+        ],
+        steps: [
+            "Mix curd, veggies, and spices.",
+            "Spread the mixture on bread and toast lightly."
+        ]
+    },
+    "lauki stuffed paratha": {
+        ingredients: [
+            "1 cup grated lauki",
+            "1 cup whole wheat flour",
+            "Spices: cumin, chili powder, salt",
+            "Ghee"
+        ],
+        steps: [
+            "Mix grated lauki with spices.",
+            "Knead the flour into dough, stuff with lauki mixture, roll, and cook on a hot pan with ghee until golden."
+        ]
+    },
     "oats overnight": {
         ingredients: [
             "Rolled oats (½ cup)",
