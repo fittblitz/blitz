@@ -57,6 +57,7 @@ body {
     overflow-y: auto;
     background-color: rgb(12,12,12);
     font-size: 1.2rem;
+    max-height: auto;
 }
 
 .sub-box-2 {
@@ -183,6 +184,7 @@ body {
     #child-box-2-2{
         display:flex;
         justify-content:center;
+        gap:10px;
     }
     #inputText {
         width: 100%;
@@ -199,7 +201,9 @@ body {
         min-width: 100px;
     }
     #container {
-        max-height: 150px;
+        max-height: 200px;
+        overflow-y: auto;
+        width: 100%;
     }
     .suggestBlock {
         font-size: 0.9rem;
