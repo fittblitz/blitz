@@ -170,7 +170,8 @@ body {
 
 @media (max-width: 768px) {
     body{
-        min-height: 100vh;
+        min-height: auto;
+        overflow-x: hidden;
     }
     .box-1 img{
         height:60px;
