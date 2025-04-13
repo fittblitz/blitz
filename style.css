@@ -180,7 +180,17 @@ body {
     .box-2 {
         width: 100%;
         height: auto;
-        min-height: auto;
+    }
+    .sub-box-2 {
+        padding: 15px;
+        background-color: rgb(12,12,12);
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        position:fixed;
+        bottom:0;
     }
     #child-box-2-2{
         display:flex;
