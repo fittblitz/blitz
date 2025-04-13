@@ -18,7 +18,7 @@
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: #f1f1f1;
+    background-color: rgb(12,12,12);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,16 +28,20 @@ body {
 }
 
 .box-1 {
-    background-color: #20bfcd;
+    background-color: rgb(10,10,10);
     color: white;
     font-size:15px;
     padding: 10px 20px;
     width: 100%;
+    text-align:center;
+}
+.box-1 img{
+    height:40px;
+    width:40px;
 }
 
 .box-2 {
-    background-color: #fff;
-    border: 1px solid #ccc;
+    background-color: rgb(12,12,12);
     width: 50%;
     max-width: 800px;
     height: 100vh;
@@ -51,13 +55,13 @@ body {
     padding: 20px;
     flex: 1;
     overflow-y: auto;
-    background-color: #fafafa;
+    background-color: rgb(12,12,12);
     font-size: 1.2rem;
 }
 
 .sub-box-2 {
     padding: 15px;
-    background-color: #fff;
+    background-color: rgb(12,12,12);
     display: flex;
     align-items: center;
     gap: 15px;
@@ -73,42 +77,46 @@ body {
 
 .suggestBlock {
     padding: 12px;
-    background-color: white;
+    background-color: rgb(14,14,14);
     cursor: pointer;
-    border: 1px solid #ddd;
     margin-bottom: 8px;
+    color:white;
     transition: background-color 0.3s;
     font-size: 1rem;
 }
 
 .suggestBlock:hover {
-    background-color: #f0f0f0;
+    background-color: rgb(15,15,15);
+
 }
 
 #inputText {
     width: 100%;
-    padding: 12px;
-    border: 1px solid #ccc;
+    padding: 8px;
+    border: none;
     border-radius: 5px;
     font-size: 1.2rem;
     margin-right: 5px;
+    outline:none;
+    color:white;
+    background-color:rgb(19,19,19);
 }
 
 #btn {
-    padding: 7px 25px;
-    background-color: #4ca0af;
-    color: white;
+    padding: 10px;
+    color: black;
     border: none;
     cursor: pointer;
-    border-radius: 5px;
-    font-size: 1.2rem;
-    min-width: 100px;
+    border-radius: 40px;
+    min-width: 50px;
+    text-align:center;
 }
 
-#btn:hover {
-    background-color: #126472;
+#btn img{
+    height:25px;
+    width:25px;
+   
 }
-
 #showMessage {
     display: flex;
     flex-direction: column;
@@ -139,7 +147,8 @@ body {
 
 .recipe-details {
     padding: 15px 30px;
-    background-color: #e8f5e9;
+    background-color: rgb(22,22,22);
+    color:white;
     border-radius: 10px;
     margin-top: 10px;
 }
@@ -161,6 +170,10 @@ body {
 @media (max-width: 768px) {
     body{
         min-height: 100vh;
+    }
+    .box-1 img{
+        height:60px;
+        width:60px;
     }
     .box-2 {
         width: 100%;
@@ -198,6 +211,10 @@ body {
 @media (max-width: 480px) {
     body{
         min-height: 100vh;
+    }
+    .box-1 img{
+        height:60px;
+        width:60px;
     }
     .box-2 {
         width: 100%;
