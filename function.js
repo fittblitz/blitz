@@ -183,10 +183,90 @@ const keyword = [
     "pumpkin raita",
     "vegetable fried rice",
     "quinoa chilla",
-    "quinoa vegetable pulao"
+    "quinoa vegetable pulao",
+    "cucumber mint alkaline water🥒🌿",
+    "ginger basil alkaline water🌿🧄",
+    "fennel jeera alkaline water🌱",
+    "aloe vera coconut alkaline water🥥",
+    "tulsi cinnamon alkaline water🍃",
+    ""
 ];
 
 const recipeDetails = {
+    "tulsi cinnamon alkaline water🍃": {
+        ingredients: [
+            "1 liter water​",
+            "5-6 tulsi (holy basil) leaves",
+            "1 small cinnamon stick",
+            "½ tsp pink salt​"
+        ],
+        steps: [
+            "Soak tulsi leaves and cinnamon in water overnight.​",
+            "Strain and drink in the morning for metabolism boost!​",
+            "✅ Tip: Drink 2-3 glasses of any of these alkaline waters daily to stay hydrated, detox, and boost weight loss naturally! 🌞💚"
+        ]
+    },
+
+    "aloe vera coconut alkaline water🥥": {
+        ingredients: [
+            "1 liter water​",
+            "2 tbsp fresh aloe vera gel​",
+            "½ cup coconut water​",
+            "½ tsp pink salt​"
+        ],
+        steps: [
+            "Blend aloe vera gel with coconut water.​",
+            "Mix it into 1 liter of water and stir well.",
+            "Drink fresh for cooling and detox benefits.",
+            "✅ Tip: Drink 2-3 glasses of any of these alkaline waters daily to stay hydrated, detox, and boost weight loss naturally! 🌞💚"
+        ]
+    },
+
+    "fennel jeera alkaline water🌱": {
+        ingredients: [
+            "1 liter water​",
+            "1 tsp fennel seeds",
+            "1 tsp cumin seeds​",
+            "½ tsp pink salt​"
+        ],
+        steps: [
+            "Boil fennel and cumin seeds in water for 5 minutes.​",
+            "Let it cool, strain, and store.​",
+            "Drink warm or chilled!",
+            "✅ Tip: Drink 2-3 glasses of any of these alkaline waters daily to stay hydrated, detox, and boost weight loss naturally! 🌞💚"
+        ]
+    },
+
+    "ginger basil alkaline water🌿🧄": {
+        ingredients: [
+            "1 liter water​",
+            "1-inch ginger (grated)",
+            "4-5 basil leaves",
+            "½ tsp pink salt​​"
+        ],
+        steps: [
+            "Add grated ginger and basil leaves to water.",
+            "Mix in pink salt and let it infuse for a few hours.",
+            "Strain and enjoy!",
+            "✅ Tip: Drink 2-3 glasses of any of these alkaline waters daily to stay hydrated, detox, and boost weight loss naturally! 🌞💚"
+        ]
+    },
+    "cucumber mint alkaline water🥒🌿": {
+        ingredients: [
+            "1 liter water​",
+            "5-6 cucumber slices​",
+            "5-6 fresh mint leaves​",
+            "½ tsp pink salt​",
+            "1 tsp chia seeds (optional)​"
+        ],
+        steps: [
+            "Add cucumber slices and mint leaves to a water jug.​",
+            "Stir in pink salt and chia seeds (if using).",
+            "Let it infuse for 2-3 hours in the fridge.",
+            "Enjoy chilled!",
+            "✅ Tip: Drink 2-3 glasses of any of these alkaline waters daily to stay hydrated, detox, and boost weight loss naturally!🌞💚"
+        ]
+    },
   "egg omelette": {
         ingredients: [
             "2 eggs",
