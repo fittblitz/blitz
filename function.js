@@ -189,10 +189,157 @@ const keyword = [
     "fennel jeera alkaline water🌱",
     "aloe vera coconut alkaline water🥥",
     "tulsi cinnamon alkaline water🍃",
-    ""
+    "banana almond ice cream🍌🌰",
+    "mango coconut ice cream🥭🥥",
+    "strawberry yogurt ice cream🍓🍦",
+    "blueberry chia ice cream🫐✨",
+    "chocolate peanut butter nice cream🍫🥜",
+    "pineapple mint ice cream🍍🌿",
+    "avocado matcha ice cream🥑🍵",
+    "mixed berry ice cream🍓🫐",
+    "papaya honey ice cream🍈🍯",
+    "kiwi banana ice cream 🥝🍌"
 ];
 
 const recipeDetails = {
+    "kiwi banana ice cream 🥝🍌": {
+        ingredients: [
+            "1 frozen banana",
+            "1 peeled kiwi",
+            "½ cup almond milk​"
+        ],
+        steps: [
+            "Blend banana, kiwi, and almond milk until smooth.​",
+            "Freeze for 2 hours.",
+            "Enjoy a tangy, vitamin-packed ice cream!",
+            "💚 Weight-Loss Tip: Stick to small portions and avoid extra toppings like sugar or syrups. These ice creams are natural, refreshing, and perfect for summer! 🌞🍦😋"
+        ]
+    },
+    "papaya honey ice cream🍈🍯": {
+        ingredients: [
+            "1 cup frozen papaya chunks​",
+            "½ cup coconut milk",
+            "1 tsp honey (optional)​"
+        ],
+        steps: [
+            "Blend frozen papaya with coconut milk until smooth.​",
+            "Freeze for 3 hours.​",
+            "Scoop and enjoy a digestion-friendly treat!",
+            "💚 Weight-Loss Tip: Stick to small portions and avoid extra toppings like sugar or syrups. These ice creams are natural, refreshing, and perfect for summer! 🌞🍦😋"
+        ]
+    },
+    "mixed berry ice cream🍓🫐": {
+        ingredients: [
+            "1 cup frozen mixed berries (strawberries, blueberries, raspberries)​",
+            "½ cup Greek yogurt​",
+            "1 tbsp flaxseeds​"
+        ],
+        steps: [
+            "Blend frozen berries, Greek yogurt, and flaxseeds.​",
+            "Freeze for 2-3 hours.​",
+            "Enjoy a fiber-rich, gut-friendly dessert!",
+            "💚 Weight-Loss Tip: Stick to small portions and avoid extra toppings like sugar or syrups. These ice creams are natural, refreshing, and perfect for summer! 🌞🍦😋"
+        ]
+    },
+
+    "avocado matcha ice cream🥑🍵": {
+        ingredients: [
+            "1 ripe avocado​",
+            "½ cup coconut milk​",
+            "1 tsp matcha powder​"
+        ],
+        steps: [
+            "Blend avocado, coconut milk, and matcha powder until creamy.",
+            "Freeze for 3 hours.​",
+            "Scoop and enjoy this antioxidant-rich ice cream!",
+            "💚 Weight-Loss Tip: Stick to small portions and avoid extra toppings like sugar or syrups. These ice creams are natural, refreshing, and perfect for summer! 🌞🍦😋"
+        ]
+    },
+
+    "pineapple mint ice cream🍍🌿": {
+        ingredients: [
+            "1 cup frozen pineapple chunks​",
+            "½ cup coconut water​",
+            "Fresh mint leaves​"
+        ],
+        steps: [
+            "Blend frozen pineapple, coconut water, and mint leaves until smooth.​",
+            "Freeze for 2-3 hours.",
+            "Enjoy a refreshing, cooling summer ice cream!",
+            "💚 Weight-Loss Tip: Stick to small portions and avoid extra toppings like sugar or syrups. These ice creams are natural, refreshing, and perfect for summer! 🌞🍦😋"
+        ]
+    },
+
+    "chocolate peanut butter nice cream🍫🥜": {
+        ingredients: [
+            "2 frozen bananas​",
+            "1 tbsp peanut butter​​",
+            "1 tbsp cocoa powder​"
+        ],
+        steps: [
+            "Blend frozen bananas, peanut butter, and cocoa powder until smooth.​",
+            "Freeze for 2 hours for a firm texture.​",
+            "Scoop and enjoy a healthy chocolate treat!",
+            "💚 Weight-Loss Tip: Stick to small portions and avoid extra toppings like sugar or syrups. These ice creams are natural, refreshing, and perfect for summer! 🌞🍦😋"
+        ]
+    },
+
+    "blueberry chia ice cream🫐✨": {
+        ingredients: [
+            "1 cup frozen blueberries",
+            "½ cup coconut milk​​",
+            "1 tbsp chia seeds​"
+        ],
+        steps: [
+            "Blend all ingredients until smooth.​",
+            "Pour into a container and freeze for 2-3 hours",
+            "Stir occasionally for an even texture, then serve chilled!",
+            "💚 Weight-Loss Tip: Stick to small portions and avoid extra toppings like sugar or syrups. These ice creams are natural, refreshing, and perfect for summer! 🌞🍦😋"
+        ]
+    },
+
+    "strawberry yogurt ice cream🍓🍦": {
+        ingredients: [
+            "1 cup frozen strawberries​",
+            "½ cup Greek yogurt​",
+            "1 tbsp honey (optional)"
+        ],
+        steps: [
+            "Blend frozen strawberries and Greek yogurt until creamy.​",
+            "Freeze for 2 hours for a firmer texture.​",
+            "Scoop and enjoy this protein-rich ice cream!",
+            "💚 Weight-Loss Tip: Stick to small portions and avoid extra toppings like sugar or syrups. These ice creams are natural, refreshing, and perfect for summer! 🌞🍦😋"
+        ]
+    },
+    
+    "mango coconut ice cream🥭🥥": {
+        ingredients: [
+            "1 cup frozen mango chunks​",
+            "½ cup coconut milk​",
+            "1 tsp vanilla extract​"
+        ],
+        steps: [
+            "Blend all ingredients until smooth.​",
+            "Transfer to a container and freeze for 3 hours.​",
+            "Scoop and serve for a tropical, refreshing treat!",
+            "💚 Weight-Loss Tip: Stick to small portions and avoid extra toppings like sugar or syrups. These ice creams are natural, refreshing, and perfect for summer! 🌞🍦😋"
+        ]
+    },
+
+    "banana almond ice cream🍌🌰": {
+        ingredients: [
+            "2 ripe bananas (sliced & frozen)",
+            "1 tbsp almond butter​",
+            "½ cup almond milk​"
+        ],
+        steps: [
+            "Blend frozen banana slices, almond butter, and almond milk until smooth.​​",
+            "Pour into a container and freeze for 2-3 hours.​​",
+            "Scoop and enjoy a creamy, naturally sweet ice cream!",
+            "💚 Weight-Loss Tip: Stick to small portions and avoid extra toppings like sugar or syrups. These ice creams are natural, refreshing, and perfect for summer! 🌞🍦😋"
+        ]
+    },
+
     "tulsi cinnamon alkaline water🍃": {
         ingredients: [
             "1 liter water​",
@@ -2683,23 +2830,7 @@ const recipeDetails = {
             "Stir well and pour into a glass.",
             "Garnish with a mix of roasted seeds for an added crunch."
         ] 
-    },
-    "Oats and Lentil Soup":{
-        ingredients:[
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        steps:[
-            "",
-            "",
-            ""
-        ] 
-    },
-    
+    }    
 };
 
 const text = document.getElementById("inputText");
