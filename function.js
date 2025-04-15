@@ -214,10 +214,87 @@ const keyword = [
     "makhana stir fry with tofu🍲",
     "spicy roasted makhana🌶",
     "jaggery coated makhana🍯",
-    "makhana & peanut butter energy balls🏋️‍♂️"
+    "makhana & peanut butter energy balls🏋️‍♂️",
+    "classic vegan mayonnaise (no oil)🌿",
+    "avocado mayonnaise🥑",
+    "coconut yogurt mayonnaise🥥",
+    "tofu mayonnaise🍶",
+    "paneer mayonnaise🧀"
 ];
 
 const recipeDetails = {
+    "paneer mayonnaise🧀": {
+        ingredients: [
+            "2 tbsp Greek yogurt or hung curd 🥣​",
+         "1 tsp mustard paste 🌿​",
+"1 tsp lemon juice 🍋​",
+"Salt & black pepper to taste 🧂​",
+"1/2 cup soft paneer (crumbled)",
+            "(Optional: 1/2 tsp chili flakes, 1/2 tsp oregano)🌶️🌿"
+        ],
+        steps: [
+            "Blend paneer and yogurt until smooth.​",
+            "Add mustard, lemon juice, and salt. Mix well.​",
+            "Store in the fridge and use as a creamy, protein-rich spread!​"
+        ]
+    },
+    "tofu mayonnaise🍶": {
+        ingredients: [
+            "1/2 cup silken tofu",
+            "1 tbsp lemon juice 🍋​",
+            "1 tbsp olive oil 🛢️​",
+            "1 garlic clove (optional)",
+            "Salt to taste",
+            "(Optional: 1/2 tsp chili flakes, 1/2 tsp oregano)🌶️🌿"
+        ],
+        steps: [
+            "Blend all ingredients until smooth & creamy.​",
+            "Store in the fridge for up to 3 days."
+        ]
+    },
+
+    "coconut yogurt mayonnaise🥥": {
+        ingredients: [
+            "1/2 cup thick coconut yogur", 
+            "1 tsp apple cider vinegar",
+            "1 tsp mustard paste",
+            "Salt & pepper to taste",
+            "(Optional: 1/2 tsp chili flakes, 1/2 tsp oregano)🌶️🌿​"
+        ],
+        steps: [
+            "Mix everything until smooth.​",
+            "Refrigerate for a few hours for better taste.​​"
+        ]
+    },
+    "avocado mayonnaise🥑": {
+        ingredients: [
+            "1 ripe avocado🥑​", 
+            "1 tbsp lemon juice 🍋",
+            "1 garlic clove (optional)",
+            "1 tbsp olive oil🛢️​",
+            "Salt & pepper to taste",
+            "(Optional: 1/2 tsp chili flakes, 1/2 tsp oregano)🌶️🌿​"
+        ],
+        steps: [
+            "Mash or blend all ingredients until creamy.​",
+            "Use immediately as a dip or sandwich spread.​"
+        ]
+    },
+    "classic vegan mayonnaise (no oil)🌿": {
+        ingredients: [
+            "1/2 cup cashews (soaked)🥜",
+            "1/4 cup water💧",
+            "1 tbsp lemon juice🍋​",
+            "1 tsp mustard powder🌿",
+            "Salt to taste🧂",
+            "Optional: 1 garlic clove, 1/2 tsp chili flakes, 1/2 tsp oregano)🧄🌶️"
+        ],
+        steps: [
+            "Blend all ingredients until smooth.",
+            "Adjust thickness by adding more water if needed.​",
+            "Store in the fridge & use as a spread or dip!​"
+        ]
+    },
     "makhana & peanut butter energy balls🏋️‍♂️": {
         ingredients: [
             "½ cup makhana​",
