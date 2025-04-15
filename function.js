@@ -198,10 +198,230 @@ const keyword = [
     "avocado matcha ice cream🥑🍵",
     "mixed berry ice cream🍓🫐",
     "papaya honey ice cream🍈🍯",
-    "kiwi banana ice cream 🥝🍌"
+    "kiwi banana ice cream 🥝🍌",
+    "makhana smoothie bowl🥤",
+    "makhana and oats porridge🍵",
+    "roasted makhana & nut mix🥜",
+    "makhana upma🌾",
+    "makhana & chia pudding🍮",
+    "makhana besan chilla🌮",
+    "makhana paneer sabzi🧀",
+    "makhana dal tadka🍲",
+    "makhana & quinoa khichdi🍚",
+    "makhana & spinach soup 🥦",
+    "makhana & palak curry🍛",
+    "makhana & sweet potato chaat🥔",
+    "makhana stir fry with tofu🍲",
+    "spicy roasted makhana🌶",
+    "jaggery coated makhana🍯",
+    "makhana & peanut butter energy balls🏋️‍♂️"
 ];
 
 const recipeDetails = {
+    "makhana & peanut butter energy balls🏋️‍♂️": {
+        ingredients: [
+            "½ cup makhana​",
+            "2 tbsp peanut butter​​",
+            "2 dates​"
+        ],
+        steps: [
+            "Blend all ingredients and roll into balls."
+        ]
+    },
+    "jaggery coated makhana🍯": {
+        ingredients: [
+            "1 cup makhana​",
+            "2 tbsp jaggery​"
+        ],
+        steps: [
+            "Melt jaggery, coat makhana, and let it cool.​"
+        ]
+    },
+    "spicy roasted makhana🌶": {
+        ingredients: [
+            "1 cup makhana",
+            "½ tsp turmeric, black pepper​",
+            "1 tsp ghee"
+        ],
+        steps: [
+            "Roast makhana with ghee and spices."
+        ]
+    },
+    "makhana stir fry with tofu🍲": {
+        ingredients: [
+            "1 cup roasted makhana​",
+            "½ cup tofu​",
+            "½ cup bell peppers​",
+            "1 tsp soy sauce​"
+        ],
+        steps: [
+            "Stir-fry tofu, bell peppers, and makhana with soy sauce.​"
+        ]
+    },
+    "makhana & palak curry🍛": {
+        ingredients: [
+            "cup makhana​",
+            "cup boiled sweet potato​",
+            "1 tsp chaat masala​"
+        ],
+        steps: [
+            "Mix all ingredients well and serve.​"
+        ]
+    },
+    "makhana & palak curry🍛": {
+        ingredients: [
+            "1 cup spinach puree​",
+            "½ cup roasted makhana​",
+            "½ tsp turmeric, garam masala​"
+        ],
+        steps: [
+            "Cook spinach puree with spices.​",
+            "Add roasted makhana and mix well.​"
+        ]
+    },
+    "makhana & spinach soup 🥦": {
+        ingredients: [
+            "½ cup makhana​",
+            "1 cup spinach​",
+            "1 garlic clove​",
+            "1 tsp black pepper​"
+        ],
+        steps: [
+            "Blend spinach, garlic, and makhana.​",
+            "Heat and serve hot.​"
+        ]
+    },
+    "makhana & quinoa khichdi🍚": {
+        ingredients: [
+            "½ cup quinoa​",
+            "½ cup roasted makhana​",
+            "¼ cup mixed veggies​",
+            "1 tsp ghee​",
+            "Salt and spices​"
+        ],
+        steps: [
+            "Cook quinoa and veggies.​",
+            "Add roasted makhana and season with spices.​"
+        ]
+    },
+    "makhana dal tadka🍲": {
+        ingredients: [
+            "½ cup yellow dal​",
+            "½ cup roasted makhana​",
+            "1 tsp ghee​",
+            "1 tsp mustard seeds, cumin, garlic​",
+            "Salt and turmeric​"
+        ],
+        steps: [
+            "Cook dal until soft.​",
+            "Heat ghee, add mustard seeds, garlic, cumin, and mix into dal.​",
+            "Add roasted makhana and serve.​"
+        ]
+    },
+    "makhana paneer sabzi🧀": {
+        ingredients: [
+            "1 cup roasted makhana​",
+            "½ cup paneer cubes​",
+            "1 tomato (pureed)​",
+            "1 tsp cumin seeds​",
+            "½ tsp turmeric, coriander powder​",
+            "1 tsp ghee​"
+        ],
+        steps: [
+            "Heat ghee, add cumin seeds, then tomato puree and spices.​",
+            "Add paneer and makhana, cook for 5 minutes.​",
+            "Serve hot.​​"
+        ]
+    },
+    "makhana besan chilla🌮": {
+        ingredients: [
+            "½ cup gram flour​",
+            "¼ cup ground roasted makhana​",
+            "¼ cup chopped veggies​",
+            "1 tsp cumin seeds​",
+            "Water to make batter​"
+        ],
+        steps: [
+            "Mix all ingredients with water to form a batter.​",
+            "Pour on a hot tawa and cook on both sides.​",
+            "Serve hot with chutney.​"
+        ]
+    },
+    "makhana & chia pudding🍮": {
+        ingredients: [
+            "½ cup makhana",
+            "1 cup almond milk​",
+            "2 tbsp chia seeds​",
+            "1 tsp honey​",
+            "Fruits for topping​"
+        ],
+        steps: [
+            "Soak makhana and chia seeds in almond milk overnight.",
+            "Add honey and mix well.​",
+            "Top with fruits and serve chilled.​"
+        ]
+    },
+    "makhana upma🌾": {
+        ingredients: [
+            "½ cup crushed roasted makhana​",
+            "¼ cup chopped veggies (onion, carrot, capsicum)​",
+            "1 tsp mustard seeds​",
+            "1 tsp ghee​",
+            "Curry leaves​",
+            "Salt and black pepper to taste​"
+        ],
+        steps: [
+            "Heat ghee, add mustard seeds, curry leaves, and chopped veggies.​",
+            "Add crushed makhana and sauté for 2-3 minutes.​",
+            "Season with salt and pepper.​"
+        ]
+    },
+
+    "roasted makhana & nut mix🥜": {
+        ingredients: [
+            "1 cup makhana​",
+            "¼ cup almonds​",
+            "¼ cup walnuts",
+            "1 tbsp seeds (flax, sunflower, or pumpkin)​",
+            "1 tsp rock salt​",
+            "1 tsp ghee​"
+        ],
+        steps: [
+            "Heat ghee in a pan and dry roast makhana until crispy.​",
+            "Add nuts, seeds, and salt.​",
+            "Mix well and store in an airtight container.​"
+        ]
+    },
+
+    "makhana and oats porridge🍵": {
+        ingredients: [
+            "½ cup roasted makhana",
+            "½ cup oats​",
+            "1 cup milk (dairy or plant-based)​",
+            "1 tsp cinnamon​",
+            "1 tsp jaggery"
+        ],
+        steps: [
+            "Cook oats in milk until soft.",
+            "Add roasted makhana and cinnamon, stirring well.​",
+            "Sweeten with jaggery and serve warm.​"
+        ]
+    },
+    "makhana smoothie bowl🥤": {
+        ingredients: [
+            "½ cup soaked makhana​",
+            "1 banana​",
+            "1 cup almond milk​​",
+            "1 tbsp flaxseeds​",
+            "1 tsp honey (optional)​",
+            "Nuts and seeds for topping"
+        ],
+        steps: [
+            "Blend soaked makhana, banana, almond milk, and flaxseeds until smooth.​",
+            "Pour into a bowl and top with nuts and seeds.​",
+            "Serve chilled.​"
+        ]
+    },
     "kiwi banana ice cream 🥝🍌": {
         ingredients: [
             "1 frozen banana",
